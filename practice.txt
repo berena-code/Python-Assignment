@@ -1,0 +1,7 @@
+This document is meant to practice Python read and modify operations.
+Reading Files 📜
+
+Python provides multiple ways to read file contents:
+.read(): Reads the entire file.
+.readline(): Reads a single line at a time.
+.readlines(): Reads all lines and returns a list.
